@@ -1,1 +1,1 @@
-# Revenue-Record-App
+# Accounting Management System X
