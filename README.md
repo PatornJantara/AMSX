@@ -6,7 +6,7 @@ RUN
 │   └───2023
 └───Init
 ```
-The data folder is where XML locate.It will be created automatically once data has been inserted
+The data folder is where XML locate.It will be created automatically once data has been inserted</br>
 The init folder store 3 .INI file including Income,Expense,Investment. You can edit list of categories you prefer in this.
 ##  user guide
 ### Record panel
@@ -19,5 +19,7 @@ The init folder store 3 .INI file including Income,Expense,Investment. You can e
 - To delete data,select row that you want to delete then click delete button on record panel.
 ### Chart panel
 - This will show a summary of data in history panel in Pie Chart, You can select detail in each order type by selecting droplist at top right
+</br>
+</br>
 ![AMS_DOC_DES](https://github.com/PatornJantara/AMSX/assets/56642026/42145a28-3489-409e-ac9c-f39ce2d61236)
 
