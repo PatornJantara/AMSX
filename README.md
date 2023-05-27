@@ -1,11 +1,11 @@
 # Accounting Management System X
 ## Application structure
-'''
-C:.
+```
+RUN
 ├───Data
 │   └───2023
 └───Init
-'''
+```
 The data folder is where XML locate.It will be created automatically once data has been inserted
 The init folder store 3 .INI file including Income,Expense,Investment. You can edit list of categories you prefer in this.
 ##  user guide
