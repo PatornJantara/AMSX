@@ -8,7 +8,7 @@ RUN
 ```
 The data folder is where XML locate.It will be created automatically once data has been inserted</br>
 The init folder store 3 .INI file including Income,Expense,Investment. You can edit list of categories you prefer in this.
-##  user guide
+##  User guide
 ### Record panel
 - Select Date time of your order.
 - Select type of revenue and its category in droplist.
