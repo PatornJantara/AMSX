@@ -20,6 +20,5 @@ The init folder store 3 .INI file including Income,Expense,Investment. You can e
 ### Chart panel
 - This will show a summary of data in history panel in Pie Chart, You can select detail in each order type by selecting droplist at top right
 </br>
-</br>
 ![AMS_DOC_DES](https://github.com/PatornJantara/AMSX/assets/56642026/42145a28-3489-409e-ac9c-f39ce2d61236)
 
