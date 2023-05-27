@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <AMSX>
+    <DATE>2023-05-27T14:40:34.6289109+07:00</DATE>
+    <TYPE>INCOME</TYPE>
+    <CATE>Salary</CATE>
+    <AMOUNT>2500</AMOUNT>
+    <REMARK />
+    <GUID>db2bcba4-e101-4d4d-8b35-9cb46520890b</GUID>
+  </AMSX>
+  <AMSX>
+    <DATE>2023-05-27T14:40:34.6289109+07:00</DATE>
+    <TYPE>EXPENSE</TYPE>
+    <CATE>House</CATE>
+    <AMOUNT>500</AMOUNT>
+    <REMARK />
+    <GUID>d4d753df-5c31-450e-8032-7c091bec5e63</GUID>
+  </AMSX>
+</DocumentElement>
